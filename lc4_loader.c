@@ -1,11 +1,3 @@
-/************************************************************************/
-/* File Name : lc4_loader.c		 										*/
-/* Purpose   : This file implements the loader (ld) from PennSim		*/
-/*             It will be called by main()								*/
-/*             															*/
-/* Author(s) : tjf and you												*/
-/************************************************************************/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include "lc4_memory.h"
