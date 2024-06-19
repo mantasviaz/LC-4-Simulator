@@ -1,11 +1,3 @@
-/************************************************************************/
-/* File Name : lc4_loader.h		 										*/
-/* Purpose   : This file declares the functions for lc4_loader.c		*/
-/*             															*/
-/*             															*/
-/* Author(s) : tjf														*/
-/************************************************************************/
-
 #include <stdio.h>
 #include "lc4_memory.h"
 #include "lc4_hash.h"
