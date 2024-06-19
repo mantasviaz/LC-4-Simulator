@@ -1,10 +1,3 @@
-/************************************************************************/
-/* File Name : lc4_hash.c		 										*/
-/* Purpose   : This file contains the definitions for the hash table  	*/
-/*																		*/
-/* Author(s) : tjf 														*/
-/************************************************************************/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include "lc4_hash.h"
