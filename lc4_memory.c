@@ -1,11 +1,3 @@
-/************************************************************************/
-/* File Name : lc4_memory.c		 										*/
-/* Purpose   : This file implements the linked_list helper functions	*/
-/* 			   to manage the LC4 memory									*/
-/*             															*/
-/* Author(s) : tjf and you												*/
-/************************************************************************/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include "lc4_memory.h"
