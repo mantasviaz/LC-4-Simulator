@@ -1,11 +1,3 @@
-/************************************************************************/
-/* File Name : lc4.c 													*/
-/* Purpose   : This file contains the main() for this project			*/
-/*             main() will call the loader and disassembler functions	*/
-/*             															*/
-/* Author(s) : tjf and you												*/
-/************************************************************************/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include "lc4_memory.h"
